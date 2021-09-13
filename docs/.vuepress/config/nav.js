@@ -10,17 +10,17 @@ module.exports = [
     ],
   },
   {
-    text: "CSS",
+    text: "HTML-CSS",
     link: "/pages/ace56b/",
     items: [
     ],
   },
-  {
+ /*  {
     text: "Vue",
     link: "/pages/ace56b/",
     items: [
     ],
-  },
+  }, */
   {
     text: "Node",
     link: "/pages/ace56b/",
@@ -39,6 +39,7 @@ module.exports = [
     link: "/pages/8a6c54/",
     items: [
       { text: "git常见命令", link: "/pages/8a6c54/" },
+      { text: "正则表达式", link: "/pages/f0bd2c/" },
       { text: "vscode代码片段", link: "https://cjh-github.github.io/vscode_snippets" },
       { text: "变量命名网站", link: "https://unbug.github.io/codelf" },
     ],
