@@ -23,8 +23,9 @@ module.exports = [
   }, */
   {
     text: "Node",
-    link: "/pages/ace56b/",
+    link: "/pages/4288b0/",
     items: [
+      { text: "Nest.js", link: "/pages/4288b0/" },
     ],
   },
   {
@@ -38,9 +39,10 @@ module.exports = [
     text: "工具类",
     link: "/pages/8a6c54/",
     items: [
+      { text: "公司开发文档", link: "https://cjh-store.github.io/my-docs/" },
       { text: "git常见命令", link: "/pages/8a6c54/" },
       { text: "正则表达式", link: "/pages/f0bd2c/" },
-      { text: "vscode代码片段", link: "https://cjh-github.github.io/vscode_snippets" },
+      { text: "vscode代码片段", link: "https://cjh-store.github.io/vscode_snippets" },
       { text: "变量命名网站", link: "https://unbug.github.io/codelf" },
     ],
   },
